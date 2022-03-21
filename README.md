@@ -1,1 +1,1 @@
-# LG_text_analytics_day20
+# LG_natural_language_processing_day20
